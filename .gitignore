@@ -1,0 +1,11 @@
+vendor
+composer.lock
+composer.phar
+mail.json
+sms.json
+registerContent.md
+registerSubject.md
+test
+registerSMSContent.md
+.DS_Store
+web/register/submitRegistration.php

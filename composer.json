@@ -1,0 +1,13 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.8",
+        "erusev/parsedown": "^1.7",
+        "twig/twig": "^3.0",
+        "chillerlan/php-qrcode": "^4.3",
+        "twilio/sdk": "^7.5",
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "autoload": {
+        "psr-4": { "uitr\\": "src" }
+    }
+}
